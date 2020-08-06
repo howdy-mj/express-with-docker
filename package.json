@@ -1,0 +1,29 @@
+{
+  "name": "first-node-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/howdy-mj/first-node-server.git"
+  },
+  "keywords": [
+    "docker-node"
+  ],
+  "author": "kmj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/howdy-mj/first-node-server/issues"
+  },
+  "homepage": "https://github.com/howdy-mj/first-node-server#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
